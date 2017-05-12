@@ -1,0 +1,4 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "python.pythonPath": "/home/kelly/anaconda3/envs/python3_face_detector/bin/python"
+}

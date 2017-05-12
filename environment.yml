@@ -1,0 +1,4 @@
+name: python3_face_detector
+dependencies:
+- python>=3.5
+- opencv>=3.1

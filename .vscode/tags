@@ -1,0 +1,15 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Face_Detector.py	../Face_Detector.py	1;"	kind:file	line:1
+draw_bbox	../Face_Detector.py	/^def draw_bbox(img, bboxes, color=(255,20,147), lineWidth=2):$/;"	kind:function	line:38
+find_face	../Face_Detector.py	/^def find_face(img, detector, scaleFactor=1.2, minNeighbors=5, minSize = (20,20)):$/;"	kind:function	line:22
+help	../Face_Detector.py	/^                    help="location of Harr Cascade to do detection")$/;"	kind:variable	line:7
+help	../Face_Detector.py	/^                    help='will create a list of images to process')$/;"	kind:variable	line:9
+image	../Face_Detector.py	/^image = cv2.imread(imagePath)$/;"	kind:variable	line:20
+load_detector	../Face_Detector.py	/^def load_detector(cascadePath):$/;"	kind:function	line:16
+main	../Face_Detector.py	/^def main(detectorPath, imagePathes, crop=False):$/;"	kind:function	line:11
+parser	../Face_Detector.py	/^parser = argparse.ArgumentParser()$/;"	kind:variable	line:4
